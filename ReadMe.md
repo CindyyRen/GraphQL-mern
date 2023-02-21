@@ -9,3 +9,7 @@ npm i express express-graphql graphql mongoose cors colors dotenv nodemon
 
 
 npm i @apollo/client graphql react-router-dom react-icons
+
+NODE_ENV = 'development'
+PORT = 5000
+MONGO_URI = 'mongodb+srv://Username:Password@cluster0.qofktmf.mongodb.net/graphQL?retryWrites=true&w=majority'
