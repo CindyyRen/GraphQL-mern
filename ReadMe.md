@@ -13,3 +13,8 @@ npm i @apollo/client graphql react-router-dom react-icons
 NODE_ENV = 'development'
 PORT = 8000
 MONGO_URI = 'mongodb+srv://Username:Password@cluster0.qofktmf.mongodb.net/graphQL?retryWrites=true&w=majority'
+
+ahthentication怎么解决
+error怎么定制
+pagenation怎么做
+subscription怎么弄
